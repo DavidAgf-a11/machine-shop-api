@@ -102,14 +102,3 @@ async def delete_machine(machine_id: int):
 
     item = find_machine(machine_id) 
     machines.remove(item) 
-    
-
-
-# TODO (26 октября):
-# 4. Залить проект на GitHub
-
-
-
-    
-    
-
